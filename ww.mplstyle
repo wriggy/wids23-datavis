@@ -1,0 +1,12 @@
+figure.figsize : 9,5
+figure.facecolor : f3f3f3
+axes.titlesize : 14
+axes.titlelocation : left
+axes.facecolor:    f3f3f3
+axes.edgecolor:  666666
+xtick.color : 666666
+ytick.color : 666666
+xtick.labelsize : 10
+ytick.labelsize : 10
+grid.alpha : 0.6
+savefig.dpi : 90
