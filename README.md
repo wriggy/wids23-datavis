@@ -1,5 +1,5 @@
-# Exploring multiple time series with matplotlib
-*The jupyter notebook contains miscellaneous python plotting functions to draw out features of data distributed over time and space. It is not meant to be a comprehensive exploration of a particular dataset - just a gathering together of helpful functions created during the Kaggle WIDS23 datathon hat might be applicable to similar datasets with  minor modifications.*
+# Exploring spatio-temporal data with matplotlib
+*The jupyter notebook contains miscellaneous python plotting functions to draw out features of data distributed over time and space. It is not meant to be a comprehensive exploration of a particular dataset; It's just a gathering together of helpful functions created during the Kaggle WIDS23 datathon that might be applicable to similar datasets with  minor modifications.*
 
 ---
 
@@ -11,11 +11,13 @@ Kaggle WiDS 2023 dataset. ie 2 full years of data from 514 locations in the US. 
 
 The dataset is too large to be included here. Visit the [Kaggle competition data page](https://www.kaggle.com/competitions/widsdatathon2023/data) for further information or to download a copy.
 
-### 1. Geospatial distribution 
+#### 1. Geospatial distribution 
 
 ![feature means](vis/A1_spatial_contest_feat_mean.jpg)
 
 ![climate regions](vis/A1_climateregion_distn.jpg)
+
+![climate regions](vis/A1_spatial_monthly_var.jpg)
 
 
 #### 2. Time series
